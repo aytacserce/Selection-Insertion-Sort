@@ -15,7 +15,7 @@ Best case: Aradığımız sayının dizinin en başında olması.
 
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
-1. Insertion Sort
+## 1. Insertion Sort
 
 ---
 
@@ -38,7 +38,7 @@ Average Case = 18
 
 ---
 
-Time Complexity 
+### Time Complexity 
 ---
 
 * Best Case = O(n) 
@@ -47,7 +47,7 @@ Time Complexity
 
 ---
 
-2. Selection Sort
+## 2. Selection Sort
 
 ---
 
